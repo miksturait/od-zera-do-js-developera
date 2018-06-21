@@ -1,12 +1,10 @@
 // exercise 3 - print triangle
 
 let triangle = '';
-let hashSize = 1;
-let bottomSize = 35;
+let bottomSize = 63;
 let indent = Math.floor(bottomSize / 2);
 
-
-while (hashSize <= bottomSize) {
+for (let hashSize = 1; hashSize <= bottomSize; hashSize = hashSize + 2) {
   for(let counter = 0; counter < indent; counter++) {
     triangle = `${triangle} `;
   }
@@ -18,7 +16,6 @@ while (hashSize <= bottomSize) {
   triangle = `${triangle}\n`;
 
   indent--;
-  hashSize = hashSize + 2;
 }
 
 console.log(triangle);
