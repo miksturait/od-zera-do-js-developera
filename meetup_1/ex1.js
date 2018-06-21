@@ -2,16 +2,16 @@
 
 let endNumber = 250;
 
-for (let counter = 0; counter <= endNumber; counter++) {
+for (let currentNumber = 0; currentNumber <= endNumber; currentNumber++) {
   let isPrime = true;
 
-  for (let dividerCounter = 2; dividerCounter <= counter; dividerCounter++) {
-    if (counter % dividerCounter === 0 && dividerCounter !== counter) {
+  for (let dividerCounter = 2; dividerCounter <= currentNumber; dividerCounter++) {
+    if (currentNumber % dividerCounter === 0 && dividerCounter !== currentNumber) {
       isPrime = false;
     }
   }
 
   if (isPrime) {
-    console.log(counter)
+    console.log(currentNumber)
   }
 }
