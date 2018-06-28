@@ -11,7 +11,9 @@
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxjbcc/) **21.06.2018**
 
 ## Week 3 - Higher-order Functions
-:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxjblc/) **28.06.2018** :point_left: register here
+:book: [Slides](https://slides.com/michalstaskiewicz-1/od-zera-do-javascript-developera-3#/) |
+:movie_camera: [YouTube](https://www.youtube.com/watch?v=RLBoUKhW12I) |
+:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxjbcc/) **28.06.2018**
 
 ## Week 4 - Objects &  first project
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbhb/) **05.07.2018** :point_left: register here
