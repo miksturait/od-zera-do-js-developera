@@ -2,6 +2,7 @@ const deepEqual = (masterObject, slaveObject) => {
   const masterKeys = Object.keys(masterObject);
   const slaveKeys = Object.keys(slaveObject);
 
+  if (typeof masterObject !== 'object' || typeof slaveObject !== 'object') return false;
   if (masterKeys.length !== slaveKeys.length) return false;
 
   for (const key of masterKeys) {
