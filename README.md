@@ -21,7 +21,9 @@
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbhb/) **05.07.2018**
 
 ## Week 5 - Bugs, Errors & Regular Expression
-:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbqb/) **12.07.2018** :point_left: register here
+:book: [Slides](https://slides.com/michalstaskiewicz-1/od-zera-do-javascript-developera-5#/) |
+:movie_camera: [YouTube](https://www.youtube.com/watch?v=OVNZXZPvVFw) |
+:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbqb/) **12.07.2018**
 
 ## Week 6 - Modules & Asynchronous Programming
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbzb/) **19.07.2018** :point_left: register here
