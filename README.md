@@ -15,7 +15,7 @@
 :movie_camera: [YouTube](https://www.youtube.com/watch?v=RLBoUKhW12I) |
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxjbcc/) **28.06.2018**
 
-## Week 4 - Objects &  first project
+## Week 4 - Objects & Project - Game of life
 :book: [Slides](https://slides.com/michalstaskiewicz-1/od-zera-do-javascript-developera-4#/) |
 :movie_camera: [YouTube](https://www.youtube.com/watch?v=blku9Ad-7Q0) |
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbhb/) **05.07.2018**
