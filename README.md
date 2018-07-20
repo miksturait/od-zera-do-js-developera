@@ -26,7 +26,9 @@
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbqb/) **12.07.2018**
 
 ## Week 6 - Modules & Asynchronous Programming
-:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbzb/) **19.07.2018** :point_left: register here
+:book: [Slides](https://slides.com/poslinski_net/od-zera-do-javascript-developera-6#/) |
+:movie_camera: [YouTube](https://www.youtube.com/watch?v=OWZcaNnum-o) |
+:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbzb/) **19.07.2018**
 
 ## Week 7 - Project - A Programming Language (review)
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbjc/) **26.07.2018** :point_left: register here
