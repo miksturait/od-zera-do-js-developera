@@ -31,7 +31,9 @@
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbzb/) **19.07.2018**
 
 ## Week 7 - Project - A Programming Language (review)
-:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbjc/) **26.07.2018** :point_left: register here
+:book: [Slides](https://slides.com/poslinski_net/od-zera-do-javascript-developera-7#/) |
+:movie_camera: [YouTube](https://www.youtube.com/watch?v=6HacaPK6gD8) |
+:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbjc/) **26.07.2018**
 
 ## Week 8 - Exercises - katas
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxlbdb/) **02.08.2018** :point_left: register here
