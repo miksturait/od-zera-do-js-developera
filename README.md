@@ -23,20 +23,22 @@
 ## Week 5 - Project: Chess
 :book: [Slides](https://slides.com/michalstaskiewicz-1/od-zera-do-javascript-developera-5#/) |
 :movie_camera: [YouTube](https://www.youtube.com/watch?v=OVNZXZPvVFw) |
-:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbqb/) **12.07.2018**
+:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbhb/) **12.07.2018**
 
 ## Week 6 - Modules & Asynchronous Programming
 :book: [Slides](https://slides.com/poslinski_net/od-zera-do-javascript-developera-6#/) |
 :movie_camera: [YouTube](https://www.youtube.com/watch?v=OWZcaNnum-o) |
-:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbzb/) **19.07.2018**
+:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbqb/) **19.07.2018**
 
 ## Week 7 - Project - Back to chessboard
-:book: [Slides](https://slides.com/poslinski_net/od-zera-do-javascript-developera-7#/) |
+:book: [Slides](https://slides.com/michalstaskiewicz-1/od-zera-do-javascript-developera-7#/) |
 :movie_camera: [YouTube](https://www.youtube.com/watch?v=6HacaPK6gD8) |
 :office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxkbjc/) **26.07.2018**
 
 ## Week 8 - Exercises - katas
-:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxlbdb/) **02.08.2018** :point_left: register here
+:book: [Slides](https://slides.com/michalstaskiewicz-1/od-zera-do-javascript-developera-8#/) / [Slides #2](https://slides.com/poslinski_net/ember_bb_meetup_summer_2k18) |
+:movie_camera: [YouTube](https://www.youtube.com/edit?o=U&video_id=WKgmB2oiuG0) |
+:office: [Event page](https://www.meetup.com/Mikstura-IT/events/nsnzspyxlbdb/) **02.08.2018**
 
 # Other links
 
